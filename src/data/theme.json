@@ -5,6 +5,11 @@
   "email": "chris@lookchris.com",
   "social": [
     {
+      "channel": "Dribbble",
+      "handle": "mr-chris",
+      "link_text": "drbb"
+    },
+    {
       "channel": "twitter",
       "handle": "mr_chris",
       "link_text": "tw"
