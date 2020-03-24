@@ -11,3 +11,5 @@ categories:
 ![](/v1560476280/09.jpg)
 
 ![](/v1560476283/10.jpg)
+
+**New Horizons**, 24 x 30 in., Oil on linen, 2018.
