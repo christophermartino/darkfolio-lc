@@ -2,8 +2,7 @@
 title: More Stuff
 thumbnail: "/v1579074364/32.jpg"
 year: "2017"
-categories:
-- Branding
+categories: []
 
 ---
 ![](/v1579074360/30.jpg)
