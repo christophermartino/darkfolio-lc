@@ -52,10 +52,12 @@ export default {
   padding: 0;
   margin: 0;
   list-style: none;
+  display: none;
 }
 .project-category {
   padding: 0;
   margin: 0;
+  display: none;
 }
 .project-year {
   flex: 1;

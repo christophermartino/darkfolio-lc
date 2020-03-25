@@ -2,6 +2,8 @@
 title: Suburbs
 thumbnail: '../static/uploads/ears-th.jpg'
 year: '2019'
+categories:
+- painting
 ---
 
 ![](https://res.cloudinary.com/df2ebjhsp/image/upload/c_scale,w_1000,dpr_auto,f_auto,q_auto:low/v1579074360/30.jpg)
