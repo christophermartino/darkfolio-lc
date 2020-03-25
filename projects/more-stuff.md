@@ -2,7 +2,7 @@
 title: More Stuff
 thumbnail: '../static/uploads/twoeyes-th.jpg'
 year: "2017"
-categories: []
+categories: 
 
 ---
 ![](https://res.cloudinary.com/df2ebjhsp/image/upload/c_scale,w_1000,dpr_auto,f_auto,q_auto:low/v1579074360/30.jpg)
