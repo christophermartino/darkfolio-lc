@@ -66,6 +66,7 @@ export default {
 }
 .name {
   font-family: "UnifrakturMaguntia", sans-serif;
+  color: lightsalmon;
   font-size: 3rem;
   font-weight: 500;
   user-select: none;

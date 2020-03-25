@@ -74,8 +74,7 @@ export default {
   margin: 0 2rem;
 }
 .project {
-  width: 50%;
-  margin-left: 25%;
+  width: 100%;
   margin-bottom: 4rem;
   cursor: pointer;
 }

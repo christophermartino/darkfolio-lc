@@ -5,24 +5,19 @@
   "email": "chris@lookchris.com",
   "social": [
     {
-      "channel": "Dribbble",
-      "handle": "mr-chris",
-      "link_text": "drbb"
-    },
-    {
-      "channel": "twitter",
-      "handle": "mr_chris",
-      "link_text": "tw"
-    },
-    {
       "channel": "instagram",
       "handle": "christopherm00",
       "link_text": "ig"
     },
     {
-      "channel": "github",
-      "handle": "christophermartino",
-      "link_text": "gh"
+      "channel": "facebook",
+      "handle": "chrisjmartino",
+      "link_text": "fb"
+    },
+    {
+      "channel": "twitter",
+      "handle": "mr_chris",
+      "link_text": "tw"
     }
   ]
 }

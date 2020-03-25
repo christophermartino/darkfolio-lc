@@ -70,8 +70,10 @@ p {
   margin: 0;
 }
 .content-text {
-  padding: 4rem 0 6rem 0;
-  font-size: 2rem;
+  padding: 2rem 0 3rem 0;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
   font-weight: 400;
   margin-left: 0;
   max-width: 780px;
