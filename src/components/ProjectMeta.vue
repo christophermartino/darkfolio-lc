@@ -43,7 +43,7 @@ export default {
 }
 .project-title {
   flex: 0 0 40%;
-  font-size: 1rem;
+  font-size: 1.3rem;
   font-weight: 500;
   margin: 0;
 }
@@ -60,5 +60,7 @@ export default {
 .project-year {
   flex: 1;
   text-align: right;
+  font-style: italic;
+  color: rgba(255,255,255,.2);
 }
 </style>

@@ -54,8 +54,8 @@ export default {
   justify-content: space-between;
   align-items: flex-end;
   padding: 4rem 2rem 5rem 2rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
+  text-transform: none;
+  letter-spacing: 0.1em;
   z-index: 100;
   opacity: 1;
   mix-blend-mode: difference;
@@ -65,7 +65,8 @@ export default {
   }
 }
 .name {
-  font-size: 1rem;
+  font-family: "UnifrakturMaguntia", sans-serif;
+  font-size: 3rem;
   font-weight: 500;
   user-select: none;
   margin: 0;

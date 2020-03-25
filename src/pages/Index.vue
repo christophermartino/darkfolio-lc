@@ -26,7 +26,7 @@
 query Projects {
   projects: allProject {
     edges {
-      node { 
+      node {
         id
         path
         title
@@ -74,7 +74,8 @@ export default {
   margin: 0 2rem;
 }
 .project {
-  width: 100%;
+  width: 50%;
+  margin-left: 25%;
   margin-bottom: 4rem;
   cursor: pointer;
 }

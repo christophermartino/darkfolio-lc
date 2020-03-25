@@ -1,6 +1,6 @@
 ---
 title: More Stuff
-thumbnail: "https://res.cloudinary.com/df2ebjhsp/image/upload/v1579074364/32.jpg"
+thumbnail: '../static/uploads/twoeyes-th.jpg'
 year: "2017"
 categories: []
 

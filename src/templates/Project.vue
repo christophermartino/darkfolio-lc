@@ -55,8 +55,16 @@ export default {
   margin-bottom: 8rem;
 }
 img {
-  width: 60% !important;
+  width: 70% !important;
   margin-bottom: 2rem;
+  margin-left: 15%;
+}
+@media only screen and (max-width: 600px) {
+img {
+  width: 100% !important;
+  margin-bottom: 2rem;
+  margin-left: 0;
+}
 }
 p {
   margin: 0;
