@@ -55,7 +55,7 @@ export default {
   margin-bottom: 8rem;
 }
 img {
-  width: 80% !important;
+  width: 60% !important;
   margin-bottom: 2rem;
 }
 p {
