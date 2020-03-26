@@ -40,6 +40,7 @@ export default {
   text-transform: uppercase;
   letter-spacing: 0.05em;
   line-height: 1.5;
+  border-bottom: 4px dotted #fff;
 }
 .project-title {
   flex: 0 0 40%;
