@@ -74,9 +74,17 @@ export default {
   margin: 0 2rem;
 }
 .project {
-  width: 100%;
+  width: 60%;
+  margin-left: 20%;
   margin-bottom: 4rem;
   cursor: pointer;
+}
+@media only screen and (max-width: 600px) {
+.project {
+  width: 100% !important;
+  margin-bottom: 2rem;
+  margin-left: 0;
+}
 }
 .project-thumbnail {
   display: block;
