@@ -21,6 +21,7 @@ export default {
 <style lang="scss">
 @import url("https://rsms.me/inter/inter.css");
 @import url('https://fonts.googleapis.com/css?family=Amita|Bellota+Text|Cormorant+Garamond|Kelly+Slab|Old+Standard+TT|UnifrakturMaguntia|Viaoda+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Germania+One&family=Staatliches&family=Yatra+One&display=swap');
 html {
   font-family: "Inter", sans-serif;
   font-size: 14px;

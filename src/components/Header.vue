@@ -22,7 +22,7 @@
       </span>
     </g-link>
     <div class="contact">
-      <a class="link" :href="`mailto:${data.email}`">say hi !</a>
+      <a class="link" :href="`mailto:${data.email}`">email</a>
     </div>
   </header>
 </template>
@@ -54,7 +54,7 @@ export default {
   justify-content: space-between;
   align-items: flex-end;
   padding: 4rem 2rem 5rem 2rem;
-  text-transform: none;
+  text-transform: uppercase;
   letter-spacing: 0.1em;
   z-index: 100;
   opacity: 1;
@@ -65,9 +65,9 @@ export default {
   }
 }
 .name {
-  font-family: "UnifrakturMaguntia", sans-serif;
-  color: lightsalmon;
-  font-size: 3rem;
+  font-family: "Yatra One", sans-serif;
+  color: lightcoral;
+  font-size: 2.6rem;
   font-weight: 500;
   user-select: none;
   margin: 0;
