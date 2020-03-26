@@ -69,6 +69,7 @@ img {
 p {
   margin: 0;
 }
+.art-caption { text-align: center; padding: 2rem 0 4rem 0;}
 .content-text {
   padding: 2rem 0 3rem 0;
   font-size: 1.2rem;

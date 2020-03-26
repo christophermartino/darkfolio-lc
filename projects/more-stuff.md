@@ -5,6 +5,8 @@ year: "2017"
 categories:
 - painting
 ---
+
+
 ![](https://res.cloudinary.com/df2ebjhsp/image/upload/c_scale,w_800,dpr_auto,f_auto,q_auto:low/v1579074360/30.jpg)
 ![](https://res.cloudinary.com/df2ebjhsp/image/upload/c_scale,w_800,dpr_auto,f_auto,q_auto:low/v1579074360/31.jpg)
 ![](https://res.cloudinary.com/df2ebjhsp/image/upload/c_scale,w_800,dpr_auto,f_auto,q_auto:low/v1579074360/32.jpg)
