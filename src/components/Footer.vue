@@ -10,6 +10,7 @@
       >
         {{ social.link_text }}
       </a>
+      <a class="channel" :href="`mailto:${data.email}`">email</a>
     </div>
   </footer>
 </template>

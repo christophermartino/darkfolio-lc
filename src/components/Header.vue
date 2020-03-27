@@ -21,9 +21,7 @@
         <span v-if="!data.first_letter_only">{{ word }}</span>
       </span>
     </g-link>
-    <div class="contact">
-      <a class="link" :href="`mailto:${data.email}`">email</a>
-    </div>
+
   </header>
 </template>
 
