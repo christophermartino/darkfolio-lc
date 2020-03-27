@@ -50,6 +50,7 @@ export default {
 .to-top {
   transform: rotate(-90deg);
   user-select: none;
+  color: lightcoral;
   cursor: pointer;
   border: 2px solid transparent;
   text-align: center;
@@ -57,7 +58,7 @@ export default {
   line-height: 0;
   padding: 1rem 0.5rem;
   &:hover {
-    border: 2px solid white;
+    border: 2px solid lightcoral;
   }
 }
 .social {
