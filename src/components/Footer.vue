@@ -65,7 +65,7 @@ export default {
   .channel {
     margin-right: 1rem;
     text-transform: uppercase;
-    font-family: "Yatra One", serif;
+    font-family: "Josefin Sans", serif;
     color: lightcoral;
     letter-spacing: 0.05em;
     &:last-of-type {

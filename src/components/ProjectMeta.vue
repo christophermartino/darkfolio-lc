@@ -40,14 +40,15 @@ export default {
   text-transform: uppercase;
   letter-spacing: 0.05em;
   line-height: 1.5;
-  border-bottom: 4px dotted #fff;
+  border-bottom: 2px dotted #555;
   margin-bottom: 4em;
 }
 .project-title {
   flex: 0 0 40%;
   font-size: 1.3rem;
-  font-weight: 500;
+  font-weight: 300;
   margin: 0;
+  font-family: 'Josefin Sans', serif;
 }
 .project-categories {
   flex: 1;

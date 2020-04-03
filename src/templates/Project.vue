@@ -70,10 +70,17 @@ p {
   margin: 0;
 }
 .art-caption {
-  font-family: "Old Standard TT", serif;
-  font-size: 1.5em;
+  font-family: "Josefin Sans", serif;
+  font-size: 1.2rem;
+  color: #555;
+  text-transform: none;
   text-align: center;
   padding: 2rem 0 4rem 0;
+}
+@media only screen and (max-width: 600px) {
+.art-caption {
+  font-size: 1.2em;
+}
 }
 .content-text {
   padding: 2rem 0 3rem 0;

@@ -20,8 +20,12 @@ export default {
 
 <style lang="scss">
 @import url("https://rsms.me/inter/inter.css");
-@import url('https://fonts.googleapis.com/css?family=Amita|Bellota+Text|Cormorant+Garamond|Kelly+Slab|Old+Standard+TT|UnifrakturMaguntia|Viaoda+Libre&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Germania+One&family=Staatliches&family=Yatra+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Infant|Kelly+Slab|Old+Standard+TT|UnifrakturMaguntia|Viaoda+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Eczar:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allan:wght@400;700&family=Anton&family=Bubblegum+Sans&family=Eczar:wght@800&family=Lilita+One&family=Monoton&family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600&display=swap');
+
 html {
   font-family: "Inter", sans-serif;
   font-size: 14px;

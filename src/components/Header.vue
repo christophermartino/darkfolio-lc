@@ -52,7 +52,7 @@ export default {
   justify-content: space-between;
   align-items: flex-end;
   padding: 4rem 2rem 5rem 2rem;
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 0.1em;
   z-index: 100;
   opacity: 1;
@@ -63,10 +63,10 @@ export default {
   }
 }
 .name {
-  font-family: "Yatra One", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
   color: lightcoral;
-  font-size: 2.6rem;
-  font-weight: 500;
+  font-size: 3rem;
+  font-weight: 300;
   user-select: none;
   margin: 0;
   cursor: pointer;
@@ -87,6 +87,8 @@ export default {
     }
     .first-letter {
       opacity: 1;
+      font-family: 'UnifrakturMaguntia', serif;
+      font-size: 3.5rem;
     }
     &:hover {
       .letter {

@@ -8,7 +8,7 @@ categories:
 
 ![](https://res.cloudinary.com/df2ebjhsp/image/upload/c_scale,w_800,dpr_auto,f_auto,q_auto:low/v1579074360/43.jpg)
 
-<p class="art-caption"><b>New Horizons</b>, 24 x 30 in., Oil on linen, 2018.</p>
+<p class="art-caption"><i>New Horizons</i>, 24 x 30 in., Oil on linen, 2018.</p>
 
 ![](https://res.cloudinary.com/df2ebjhsp/image/upload/c_scale,w_800,dpr_auto,f_auto,q_auto:low/v1579074360/35.jpg)
 
