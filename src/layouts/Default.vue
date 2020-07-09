@@ -1,8 +1,14 @@
 <template>
   <div class="layout">
+    <div class="line"></div>
     <Header />
+      <transition name="fade" appear>
+        <main>
     <slot />
+  </main>
+  </transition>
     <Footer />
+
   </div>
 </template>
 
@@ -35,7 +41,7 @@ html {
 
 @supports (font-variation-settings: normal) {
   html {
-    font-family: "Inter var", sans-serif;
+    font-family: "Inter", sans-serif;
   }
 }
 
@@ -49,6 +55,19 @@ body {
   color: white;
   margin: 0;
   padding: 0;
+}
+.line {
+  width: 100%;
+height: 100%;
+border-top: 2px solid #222222;
+-webkit-transform:
+    translateY(40px)
+    translateX(1px)
+    rotate(-45deg);
+position: absolute;
+top: -33px;
+left: -13px;
+z-index: -999;
 }
 a {
   color: inherit;

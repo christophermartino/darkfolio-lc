@@ -1,11 +1,7 @@
 <template>
   <Layout :title="$page.project.title">
     <article class="project-post">
-      <g-image
-        class="thumnail"
-        :src="$page.project.thumbnail"
-        :alt="$page.project.title"
-      />
+
       <ProjectMeta
         :title="$page.project.title"
         :categories="$page.project.categories"
@@ -55,9 +51,9 @@ export default {
   margin-bottom: 8rem;
 }
 img {
-  width: 70% !important;
+  width: 50% !important;
   margin-bottom: 2rem;
-  margin-left: 15%;
+  margin-left: 25%;
 }
 @media only screen and (max-width: 600px) {
 img {
@@ -70,9 +66,9 @@ p {
   margin: 0;
 }
 .art-caption {
-  font-family: "Josefin Sans", serif;
+  font-family: "Cormorant Infant", serif;
   font-size: 1.2rem;
-  color: #555;
+  color: #999;
   text-transform: none;
   text-align: center;
   padding: 2rem 0 4rem 0;

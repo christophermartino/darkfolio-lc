@@ -64,8 +64,9 @@ export default {
 }
 .name {
   font-family: "Josefin Sans", sans-serif;
+  text-transform: uppercase;
   color: lightcoral;
-  font-size: 3rem;
+  font-size: 1.9rem;
   font-weight: 300;
   user-select: none;
   margin: 0;

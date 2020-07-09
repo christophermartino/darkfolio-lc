@@ -10,7 +10,7 @@
         {{ category }}
       </li>
     </ul>
-    <time class="project-year" :datetime="year">{{ year }}</time>
+
   </section>
 </template>
 
@@ -24,10 +24,6 @@ export default {
     categories: {
       type: Array,
       required: false
-    },
-    year: {
-      type: String,
-      required: false
     }
   }
 };
@@ -35,20 +31,21 @@ export default {
 
 <style lang="scss" scoped>
 .project-meta {
-  display: flex;
-  padding: 2rem 0;
+  text-align: center;
+  padding: .5rem 0;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   line-height: 1.5;
-  border-bottom: 2px dotted #555;
+/*  border-bottom: 2px dotted #555; */
   margin-bottom: 4em;
 }
 .project-title {
   flex: 0 0 40%;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   font-weight: 300;
   margin: 0;
   font-family: 'Josefin Sans', serif;
+  color: lightcoral;
 }
 .project-categories {
   flex: 1;
